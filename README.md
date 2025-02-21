@@ -3,9 +3,9 @@
 
 
 <div style="display: flex; justify-content: space-around;">
-  <img src="yhimages/1.png" alt="image 1" style="width: 200px; height: 250px;">
-  <img src="yhimages/2.png" alt="image 2" style="width: 200px; height: 250px;">
-  <img src="yhimages/3.png" alt="image 3"  style="width: 200px; height: 250px;">
+  <img src="yhimages/1.png" alt="image 1" style="width: 250px; height: 250px;">
+  <img src="yhimages/2.png" alt="image 2" style="width: 250px; height: 250px;">
+  <img src="yhimages/3.png" alt="image 3"  style="width: 250px; height: 250px;">
 </div>
 
 
