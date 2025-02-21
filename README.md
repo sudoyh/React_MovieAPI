@@ -3,15 +3,9 @@
 
 
 <div style="display: flex; justify-content: space-around;">
-<<<<<<< HEAD
-  <img src="yhimages/1.png" alt="image 1" style="width: 250px; height: 250px;">
-  <img src="yhimages/2.png" alt="image 2" style="width: 250px; height: 250px;">
-  <img src="yhimages/3.png" alt="image 3"  style="width: 250px; height: 250px;">
-=======
   <img src="yhimages/1.png" alt="image 1" style="width: 200px; height: 250px;">
   <img src="yhimages/2.png" alt="image 2" style="width: 200px; height: 250px;">
   <img src="yhimages/3.png" alt="image 3"  style="width: 200px; height: 250px;">
->>>>>>> e36acf6 (updates readme)
 </div>
 
 
@@ -22,38 +16,21 @@
 # Feature
 
 
-<<<<<<< HEAD
-1. Search Functionality:<br>
-<p>Users can search for movies by entering a title in the search bar. The application fetches matching results from the movie API and displays them dynamically.</p>
-<br>
-<br>
-
-2. Movie Listings:<br>
-=======
 1. Movie Listings:<br>
->>>>>>> e36acf6 (updates readme)
 <p>
 The home page showcases popular and latest movies, providing an easy way to explore trending films. Each movie is displayed with a thumbnail, title, and rating.
 </p>
 <br>
 <br>
 
-<<<<<<< HEAD
-3. Movie Details Page:<br>
-=======
 2. Movie Details Page:<br>
->>>>>>> e36acf6 (updates readme)
 <p>
 Clicking on a movie opens a detailed information page, which includes the synopsis, release date, user ratings, and additional metadata about the film. This helps users get a comprehensive view of the selected movie.
 </p>
 <br>
 <br>
 
-<<<<<<< HEAD
-4. Responsive Design:<br>
-=======
 3. Responsive Design:<br>
->>>>>>> e36acf6 (updates readme)
 <p>
 The application is designed to be fully responsive, ensuring a seamless experience across various devices, including desktops, tablets, and mobile phones.
 </p>
