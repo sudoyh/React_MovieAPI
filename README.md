@@ -74,7 +74,11 @@ cd React_MovieAPI
 
 npm i init
 
-npm run dev
+cd client
+
+npm i init
+
+cd ..
 
 
 ```
@@ -98,6 +102,8 @@ REACT_APP_MOVIE_API_KEY= 'API key from The Movie DataBase(TMDB)'
 ```bash
 
 npm install node 10.16.0
+
+nvm use 10.16.0
 
 npm install axios 
 
